@@ -1,6 +1,6 @@
 "use client"
 
-import "./Dashboard.css"
+import "./DashBoard.css"
 import { useState, useEffect } from "react"
 import Pop from "./Pop.jsx"
 import NavBar from "./NavBar.jsx"
